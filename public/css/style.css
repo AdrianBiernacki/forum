@@ -1,0 +1,16 @@
+textarea {
+    resize: none;
+}
+
+.accept{
+    position:fixed;
+    width:40%;
+    height:20vh;
+    background-color:#f1f1f1;
+    z-index:100;
+    top:30%;
+    left:50%;
+    transform: translate(-50%,-30%);
+    border: 1px solid black;
+}
+
